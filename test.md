@@ -1,5 +1,5 @@
 
-image.png
+![image-20230123023141455](C:\Users\pc\AppData\Roaming\Typora\typora-user-images\image-20230123023141455.png)
 
 ```
 Input :
